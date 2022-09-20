@@ -2,4 +2,4 @@
 ## 0x1D. C - Binary trees
 #
 
-Joseph Birara <https://github.com/joseph-birara/>
+**by** - [Joseph Birara](https://github.com/joseph-birara)
